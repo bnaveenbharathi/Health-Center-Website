@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8707537d-56e2-41e4-95e6-158cb551fb21)Here’s the full `README.md` file formatted for your project:
+
 
 # Nature Health Center Website 🌿  
 ### Responsive Demo with Landing Page, About Us, Gallery, Services, and Admin Panel  
@@ -25,11 +25,6 @@ This repository contains the demo version of the *Nature Health Center Website*,
 
 ---
 
-## 🚀 Technologies Used:  
-- **Frontend:** HTML5, CSS3, JavaScript  
-- **Responsive Design:** Mobile and desktop compatibility using modern CSS frameworks.  
-- **Backend:** *(Insert your backend technology stack here, e.g., PHP, Node.js, etc.)*  
-- **Database:** *(Insert your database details, e.g., MySQL, MongoDB, etc.)*  
 
 ---
 
